@@ -1,5 +1,5 @@
-@import url(https://www.pingoo.eu/wp-content/plugins/wordpress-seo/css/src/icons.css);
-@import "https://www.pingoo.eu/wp-content/plugins/wordpress-seo/node_modules/yoast-components/css/accessibility.scss";
+@import url(https://pingoo.eu/wp-content/plugins/wordpress-seo/css/src/icons.css);
+@import "https://pingoo.eu/wp-content/plugins/wordpress-seo/node_modules/yoast-components/css/accessibility.scss";
 .yoast-notification {
 	padding: 0 12px;
 	border-left: 4px solid #fff;

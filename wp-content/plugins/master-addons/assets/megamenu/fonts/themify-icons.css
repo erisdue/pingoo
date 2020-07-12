@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'themify';
-	src:url('https://www.pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.eot?-fvbane');
-	src:url('https://www.pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.eot#iefix-fvbane') format('embedded-opentype'),
-		url('https://www.pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.woff?-fvbane') format('woff'),
-		url('https://www.pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.ttf?-fvbane') format('truetype'),
-		url('https://www.pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.svg?-fvbane#themify') format('svg');
+	src:url('https://pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.eot?-fvbane');
+	src:url('https://pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.eot#iefix-fvbane') format('embedded-opentype'),
+		url('https://pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.woff?-fvbane') format('woff'),
+		url('https://pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.ttf?-fvbane') format('truetype'),
+		url('https://pingoo.eu/wp-content/plugins/master-addons/assets/megamenu/fonts/fonts/themify.svg?-fvbane#themify') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

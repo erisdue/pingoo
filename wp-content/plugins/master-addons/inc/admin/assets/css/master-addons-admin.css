@@ -108,7 +108,7 @@
 
 /* Logo */
 .svg .wp-badge.welcome__logo {
-    background: url('https://www.pingoo.eu/wp-content/plugins/master-addons/assets/images/logo.png') center 24px no-repeat;
+    background: url('https://pingoo.eu/wp-content/plugins/master-addons/assets/images/logo.png') center 24px no-repeat;
     background-size: contain;
     color: #fff;
     box-shadow: none;

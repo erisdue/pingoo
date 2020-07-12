@@ -1,7 +1,7 @@
-@import url(https://www.pingoo.eu/wp-content/plugins/wordpress-seo/css/src/icons.css);
-@import "https://www.pingoo.eu/wp-content/plugins/wordpress-seo/node_modules/draft-js-mention-plugin/lib/plugin.css";
+@import url(https://pingoo.eu/wp-content/plugins/wordpress-seo/css/src/icons.css);
+@import "https://pingoo.eu/wp-content/plugins/wordpress-seo/node_modules/draft-js-mention-plugin/lib/plugin.css";
 /*!rtl:begin:ignore*/
-@import "https://www.pingoo.eu/wp-content/plugins/wordpress-seo/node_modules/draft-js/dist/Draft.css";
+@import "https://pingoo.eu/wp-content/plugins/wordpress-seo/node_modules/draft-js/dist/Draft.css";
 /*!rtl:end:ignore*/
 
 #wpseo_meta {

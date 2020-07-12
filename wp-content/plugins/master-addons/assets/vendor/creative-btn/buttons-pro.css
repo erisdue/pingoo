@@ -769,7 +769,7 @@
     border: 2px solid;
     border-radius: inherit;
     -webkit-clip-path: polygon(0% 0%, 0% 100%, 35% 100%, 35% 60%, 65% 60%, 65% 100%, 100% 100%, 100% 0%);
-    clip-path: url(https://www.pingoo.eu/wp-content/plugins/master-addons/assets/vendor/index.html#clipBox);
+    clip-path: url(https://pingoo.eu/wp-content/plugins/master-addons/assets/vendor/index.html#clipBox);
     -webkit-transform: translate3d(0, 100%, 0) translate3d(0, -2px, 0);
     transform: translate3d(0, 100%, 0) translate3d(0, -2px, 0);
     -webkit-transform-origin: 50% 100%;

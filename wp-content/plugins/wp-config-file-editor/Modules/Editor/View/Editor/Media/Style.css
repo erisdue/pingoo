@@ -282,7 +282,7 @@ td.help-label-text {
     position: relative;
     height: 16px;
     padding: 0;
-    background: url('https://www.pingoo.eu/wp-content/plugins/wp-config-file-editor/Modules/Editor/View/Editor/Media/Images/bullet_toggle_plus.png') no-repeat -8px -8px;
+    background: url('https://pingoo.eu/wp-content/plugins/wp-config-file-editor/Modules/Editor/View/Editor/Media/Images/bullet_toggle_plus.png') no-repeat -8px -8px;
     top: 4px;
     margin-right: 6px;
     margin-top: -3px;
@@ -290,7 +290,7 @@ td.help-label-text {
 
 .checkbox-list a.child-items-toggler.expanded
 {
-	background: url('https://www.pingoo.eu/wp-content/plugins/wp-config-file-editor/Modules/Editor/View/Editor/Media/Images/bullet_toggle_minus.png') no-repeat -8px -8px !important;
+	background: url('https://pingoo.eu/wp-content/plugins/wp-config-file-editor/Modules/Editor/View/Editor/Media/Images/bullet_toggle_minus.png') no-repeat -8px -8px !important;
 }
 .wcfe-checkbox-list-container > ul > li
 {
