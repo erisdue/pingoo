@@ -1,1 +1,0 @@
-<div id="ma-el-modal-templates-container"></div>

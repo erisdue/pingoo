@@ -561,6 +561,7 @@
 /wp-content/uploads/2020/07/third-930x620.png
 /wp-content/uploads/2020/07/third-960x540.png
 /wp-content/uploads/2020/07/third.png
+/wp-content/uploads/elementor/css/post-6.css
 /wp-content/uploads/elementor/thumbs/1_-oog80dj3zsbt9wrxknkpde8hxjr3839kg1fjahi7ls.png
 /wp-content/uploads/elementor/thumbs/2_-oog80aplfa7yb2w114ctnwy45e4zkzydfnh2unme4g.png
 /wp-content/uploads/elementor/thumbs/2_-os5m4czexcio3urg8r0ik8qqaa103zxx0pxq7ak5q8.png
